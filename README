@@ -1,0 +1,8 @@
+=================================================
+Name: O2Stock
+Version: 1.0.0
+=================================================
+
+A couple of simple Selenium TestNG methods that check iPhone stock at UK O2 specified stores, and retrieve all stores with stock.
+
+See http://seleniumexamples.com/blog/examples/get-a-new-iphone-with-help-from-selenium/ for more information.
